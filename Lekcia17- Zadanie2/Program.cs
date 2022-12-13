@@ -4,7 +4,7 @@ mena.Add("Cristiano Ronaldo");
 mena.Add("Karim Benzema");
 mena.Add("Neymar");
 mena.Add("Erling Braut Haaland");
-mena.Add("Kylian Mbappé");
+mena.Add("Kevin De Bruyne");
 mena.Add("Theo Walcott");
 Console.WriteLine("Zoznam futbalistov:\n");
 foreach (string meno in mena)
